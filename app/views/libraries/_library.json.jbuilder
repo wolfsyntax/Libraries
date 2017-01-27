@@ -1,0 +1,2 @@
+json.extract! library, :id, :book_id, :title, :author, :length, :edition, :language, :publisher, :publicationDate, :isbn, :description, :created_at, :updated_at
+json.url library_url(library, format: :json)
