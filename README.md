@@ -28,8 +28,9 @@ Things you may want to cover:
 
 | Commands      |       |
 |:---:          | :---: |
-| rails new App             | C     |
-| :---: | :---: |
-| rails new App | C     |
-| cd App        | C     |
+| rails new Apps             | C     |
+| cd Apps        | C     |
+| rails generate scaffold \<resource> | c |
+| rake db:migrate | C|
+
 
