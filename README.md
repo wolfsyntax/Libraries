@@ -26,11 +26,16 @@ Things you may want to cover:
 
 ## Ruby on Rails
 
-| Commands      |       |
-|:---          | :--- |
-| rails new Apps             | C     |
-| cd Apps        | C     |
-| rails generate scaffold \<resource> | c |
-| rake db:migrate | C|
+###### Note: *Install Sublime (for subl command)
+
+| Commands                              | Description       |
+|:---                                   | :---              |
+| rails new Apps                        | C                 |
+| cd Apps                               | C                 |
+| rails generate scaffold \<resource>   | c                 |
+| rake db:migrate                       | C                 |
+| subl /config/routes.rb                | C                 |
+| rails s                               | C                 |
+
 
 
