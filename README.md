@@ -26,6 +26,10 @@ Things you may want to cover:
 
 ## Ruby on Rails
 
-|                      |
-|:---: | :---: | :---: |
-| A    |  B    | C     |
+| Commands      |       |
+|:---:          | :---: |
+| rails new App             | C     |
+| :---: | :---: |
+| rails new App | C     |
+| cd App        | C     |
+
