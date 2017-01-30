@@ -28,14 +28,14 @@ Things you may want to cover:
 
 ###### Note: *Install Sublime (for subl command)
 
-| Commands                              | Description       |
-|:---                                   | :---              |
-| rails new Apps                        | C                 |
-| cd Apps                               | C                 |
-| rails generate scaffold \<resource>   | c                 |
-| rake db:migrate                       | C                 |
-| subl /config/routes.rb                | C                 |
-| rails s                               | C                 |
+| Commands                                                    | Description                                                |
+|:---                                                         | :---                                                       |
+| rails new Apps                                              |                                                            |
+| cd Apps                                                     |                                                            |
+| rails generate scaffold \<resource> \<data definition>      | resource: model, data definition: name:type                |
+| rake db:migrate                                             | Create the database,run this command if you transfer your program to other computers                                        |
+| subl /config/routes.rb                                      |                                                            |
+| rails s                                                     |                                                            |
 
 
 
